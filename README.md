@@ -3,7 +3,8 @@
 <!--
 **dringdruff/dringdruff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Untitled](https://github.com/dringdruff/dringdruff/assets/175265246/78039faa-0aea-485c-93f1-d77071c03b99)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
