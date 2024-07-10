@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-(https://github.com/dringdruff/dringdruff/assets/175265246/78039faa-0aea-485c-93f1-d77071c03b99)
+![Untitled](https://github.com/dringdruff/dringdruff/assets/175265246/a8d01ccb-2195-490d-a173-28578367c66d)
+
 
 <!--
 **dringdruff/dringdruff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
