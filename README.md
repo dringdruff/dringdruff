@@ -1,6 +1,5 @@
-## Hi there 👋
+## 🤔🤔🤔🤔
 
-![Untitled](https://github.com/dringdruff/dringdruff/assets/175265246/a8d01ccb-2195-490d-a173-28578367c66d)
 
 
 <!--
